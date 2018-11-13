@@ -8,7 +8,7 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <h1>Custom React Scipts by Hans-Henning Fritz</h1>
+          <h1>Custom React Scripts by Hans-Henning Fritz</h1>
           <p>
             Edit <code>src/App.js</code> and save to reload.
           </p>
